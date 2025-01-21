@@ -8,5 +8,4 @@ public class FirstJavaProgram {
 System.out.println("Teju@007");
 System.out.println(10+20);
 	}
-
 }
